@@ -1,6 +1,6 @@
 <?php
 
-namespace AntiCaptcha;
+namespace Ardzz\AntiCaptcha;
 
 interface AntiCaptchaTaskProtocol
 {

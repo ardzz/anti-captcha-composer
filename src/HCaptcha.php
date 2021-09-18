@@ -1,5 +1,5 @@
 <?php
-namespace AntiCaptcha;
+namespace Ardzz\AntiCaptcha;
 
 class HCaptcha extends Anticaptcha implements AntiCaptchaTaskProtocol {
 

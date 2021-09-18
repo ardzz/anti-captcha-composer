@@ -1,5 +1,5 @@
 <?php
-namespace AntiCaptcha;
+namespace Ardzz\AntiCaptcha;
 
 class FunCaptchaProxyless extends Anticaptcha implements AntiCaptchaTaskProtocol {
 
